@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Meshari</h1>
 
-<!--
-**MeshariSA0/MeshariSA0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Weclome++%F0%9F%91%8B+" alt="Typing SVG" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p>
+  <img src="https://komarev.com/ghpvc/?username=MeshariSA0&color=blue" alt="Profile Views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Connect with me:
+<p>
+  <a href="https://x.com/MeshariSA0" target="_blank" >
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/meshari-aloufi/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
